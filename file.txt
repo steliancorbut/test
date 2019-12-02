@@ -1,4 +1,5 @@
 'three' 
+'zero'
 'one' 
 'two' 
 'three (from second-branch)' 
