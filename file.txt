@@ -4,3 +4,4 @@
 'two' 
 cu -3 din br-3
 bug1 resolved
+cu bug2 resolved 1 si 2
