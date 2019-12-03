@@ -5,4 +5,4 @@
 cu -3 din br-3
 bug1 resolved
 cu bug2 resolved 1 si 2
-cu bug 3 resolved 1, 2 si 3 si semnalarea qa1 si 2
+cu bug 3 resolved 1, 2 si 3 si semnalarea qa1 si 2 si 3
