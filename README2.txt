@@ -1,7 +1,8 @@
+bug3 este deplin rezolvat in br-bug3
 'My first commit!' 
 in readme2.txt
 rand 3
 rand 4
 cu rand 5
 cu bug2 resolved
-cu bug 3 resolved 1, 2 si 3 si semnalarea qa
+resolved 1, 2 si 3 si semnalarea qa

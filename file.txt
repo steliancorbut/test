@@ -1,3 +1,4 @@
+bug3 este deplin rezolvat in br-bug3
 -1
 'zero'
 'one' 

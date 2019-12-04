@@ -1,3 +1,4 @@
+bug3 este deplin rezolvat in br-bug3
 'My first commit!' 
 in readme.txt
 rand 3
