@@ -1,4 +1,5 @@
 bug3 este deplin rezolvat in br-bug3
+validat si de qa
 'My first commit!' 
 in readme.txt
 rand 3
